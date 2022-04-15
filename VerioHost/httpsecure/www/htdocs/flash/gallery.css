@@ -1,0 +1,53 @@
+.main_image{
+    display:inline-block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.green_1
+{
+	width: 68px;
+	height: 68px;
+	background-image: url(imagenes/images/indoor/indoor_nico/green%20thumb.jpg);
+}
+
+.green_2
+{
+	width: 68px;
+	height: 68px;
+	background-image:url(imagenes/images/indoor/indoor_nico/green%20thumb%202.jpg);
+}
+
+.main_image img{
+	margin: 0 auto;
+	text-align: center;
+}
+.selection_image{
+    display:inline-block;
+	position: absolute; 
+	top: 360px; 
+	width: 720px; 
+	text-align: center; 
+}
+
+
+.thumb {
+    position:relative;
+    width:68px;
+    height:68px;
+    display:inline-block;
+    margin:2px;
+    }
+.thumb:hover .overlay {
+    opacity:0!important;
+    cursor:pointer;
+}
+.overlay {
+    position:absolute;
+    top:0;left:0;width:100%;height:100%;
+    background:#000;opacity:0.4;
+}
+.selection_image img {
+    width:100%;
+    height:100%;
+}

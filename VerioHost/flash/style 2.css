@@ -1,0 +1,255 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	font-size: 100%;
+	background: #999966 url(none) repeat;
+}
+
+body{
+	font: 0.85em Verdana, Geneva, sans-serif;
+	margin:auto;
+	width:900px;
+}
+
+.content {
+	width:880px;
+	height:630px;
+	background: #666633 ;
+	margin-top:5px;
+	
+}
+
+.bar {
+	background: url(../images/contact1.png) no-repeat;
+	width:320px;
+	height:40px;
+	float:right;
+	margin-right:100px;
+	font-size:16px
+	
+	}
+.bar p{
+	margin-top:10px;
+	margin-left:5px;
+	float:left;
+	font-size:15px;
+	color: #989765;
+	display:inline-block;
+}
+.bar p a{
+	color: #989765;
+
+}
+	
+.logo {
+	background: url(../images/logo.png) no-repeat;
+	width:150px;
+	height:100px;
+	float:left;
+	margin-left:120px;
+	margin-top:30px;
+}
+
+.menu
+{
+	width:78px;
+	height:32px;
+	display:inline-block;
+	background: url(../images/menu1.png) no-repeat;
+	margin-right:-4px;
+
+}
+.link-menu {
+	
+	width:700px;
+	display:inline-block;
+	height:32px;
+	margin-left:120px;		
+}
+
+<!-- NORMAL LINKS -->
+.home
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20normal.gif);
+}
+.services
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20normal.gif);
+}
+.programs
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20normal.gif);
+}
+.project
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20normal.gif);
+}
+.color
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20normal.gif);
+}
+.potscaping
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20normal.gif);
+}
+.blooming
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20normal.gif);
+}
+.contact
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20normal.gif);
+}
+
+
+<!--HOVER LINKS -->  
+.home:hover
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20hover.gif);
+	background-position: -6px -12px;
+}
+.services:hover
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20hover.gif);
+	background-position: -6px -12px;
+}
+.programs:hover
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20hover.gif);
+	background-position: -6px -12px;
+}
+.project:hover
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20hover.gif);
+	background-position: -6px -12px;
+}
+.color:hover
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20hover.gif);
+	background-position: -6px -12px;
+}
+.potscaping:hover
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20hover.gif);
+	background-position: -6px -12px;
+}
+.blooming:hover
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20hover.gif);
+	background-position: -6px -12px;
+}
+.contact:hover
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20hover.gif);
+	background-position: -6px -12px;
+}
+
+.home-in 
+{
+	background-image: url(file:///C|/Users/Nico/Documents/Work/GreencareTX/images/thumb%20hover.gif);
+	background-position: -7px -12px;
+}
+.services-in{background-position:-82px -64px;}
+.programs-in{background-position:-164px -64px;}
+.project-in{background-position:-244px -64px;}
+.color-in{background-position:-323px -64px;}
+.potscaping-in{background-position:-404px -64px;}
+.blooming-in{background-position:-483px -64px;}
+.contact-in{background-position:-563px -64px;}
+
+
+.presentation {
+	background: #999966 no-repeat;
+	width:710px;
+	height:450px;
+	position: absolute;
+	margin-top:5px;	
+	margin-left:80px;	
+	-moz-border-radius: 10px;
+	-webkit-border-radius:10px;		
+}
+.picture-left {
+	background: url(../images/plants.jpg) no-repeat;
+	width:280px;
+	height:380px;
+	float:left;
+	margin-left: 2px;
+	margin-top: 25px;
+	
+	}
+
+.titre1 h1
+{
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+	margin-bottom:-5px;
+	font-family:"Segoe UI";
+	font-size:30px;
+	color:#666633;
+}
+.sepa{
+	background-image:url(../images/sepa-mini.png);
+	width:400px;
+	height:1px;
+	margin-bottom:12px;
+	margin-left:20px;
+	float:left;
+}
+.texte-right-home
+{
+	font-family:"Segoe UI";
+	font-size:15px;
+	width:420px;
+	float:left;
+	position:relative;
+	line-height:10px;
+	
+}
+.texte-right-home p{
+	font-size:15px;
+	line-height:15px;
+	margin-left:20px;
+	
+}
+.texte-right
+{
+	font-family:"Segoe UI";
+	font-size:12px;
+	width:420px;
+	float:left;
+	position:relative;
+	line-height:10px;
+	
+}
+.texte-right p{
+	font-size:12px;
+	line-height:11px;
+	margin-left:20px;
+	
+}
+h2{
+	font-family:"Segoe UI";
+	font-size:14px;
+	color:#993333;
+	display:inline;
+	line-height:8px;
+	margin-left:15px;
+	
+	
+}
+
+.adress {
+	position:absolute;
+	top:29em;
+	right:4em;
+}
+.adress h2 {
+	color:#666633;
+	font:12px "Segoe UI";
+	letter-spacing: 3px;
+	line-height:4px; 
+}
+
+
+

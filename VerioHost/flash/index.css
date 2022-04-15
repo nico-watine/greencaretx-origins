@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	font-size: 100%;
+	background: #999966 url(none) repeat;
+	
+}
+
+body{
+	font: 0.85em Verdana, Geneva, sans-serif;
+	margin:auto;
+	width:900px;
+	background: url(../images/intro.jpg);	
+}
+
+.intro{
+	background: url(../images/intro.jpg) no-repeat;
+		
+	
+	}

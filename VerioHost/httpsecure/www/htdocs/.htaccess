@@ -1,0 +1,2 @@
+# Added for Custom 404 Error
+ErrorDocument 404 /cgi-bin/404

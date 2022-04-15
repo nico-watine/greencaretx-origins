@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>true</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>false</Controls>
+            <GalleryName>greencaretx home slide</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>basic_linear</ImageEffect>
+            <ImageFillColor>#FFFFFF</ImageFillColor>
+            <ImageHeight>210</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>/Applications/WOWSlider.app/Contents/Resources/templates/backgnd/push/</ImageTemplate>
+            <ImageTemplateName>Push</ImageTemplateName>
+            <ImageWidth>550</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>/Users/nico/Documents/GreencareTX/GreencareTX/WOW Slider/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>/Users/nico/Documents/GreencareTX/GreencareTX/WOW Slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowTooltips>0</ShowTooltips>
+            <SlideshowDelay>30</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>push</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>false</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>/Users/nico/Desktop/GreencareTX Home Slider/Slider Pics/Atriums.jpg</url>
+                <title>Atriums</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/GreencareTX Home Slider/Slider Pics/Offices.jpg</url>
+                <title>Offices</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/GreencareTX Home Slider/Slider Pics/Receptions.jpg</url>
+                <title>Receptions</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/GreencareTX Home Slider/Slider Pics/Residential.jpg</url>
+                <title>Residences</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/GreencareTX Home Slider/Slider Pics/Restaurants.jpg</url>
+                <title>Restaurants</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

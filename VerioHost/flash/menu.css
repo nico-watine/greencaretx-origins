@@ -1,0 +1,22 @@
+/* simple reset */
+html,body,div,h2,img {margin:0;padding:0;border:none;}
+
+html {
+	font:1em Arial, Helvetica, sans-serif;
+	color:#444;
+}
+h1 {text-align:center;}
+.clear {overflow:auto;}
+#vertical, #horizontal {
+	margin: auto auto;
+}
+#vertical div, #horizontal div {
+	margin-right:3px;
+	float:left;
+	width:77px;
+	height:29px;
+	overflow:hidden;
+}
+#vertical img, #horizontal img {
+	position:relative;
+}

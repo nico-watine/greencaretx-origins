@@ -1,0 +1,196 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	font-size: 100%;
+	background: #999966 url(none) repeat;
+}
+
+body{
+	font: 0.85em Verdana, Geneva, sans-serif;
+	margin:auto;
+	width:900px;
+}
+
+.content {
+	width:880px;
+	height:630px;
+	background: #666633 ;
+	margin-top:5px;
+	
+}
+
+.bar {
+	background: url(../images/contact1.png) no-repeat;
+	width:320px;
+	height:40px;
+	float:right;
+	margin-right:100px;
+	font-size:16px
+	
+	}
+.bar p{
+	margin-top:10px;
+	margin-left:5px;
+	float:left;
+	font-size:15px;
+	color: #989765;
+}
+.bar p a{
+	color: #989765;
+	float:right;
+	margin-top:-18px;
+	margin-left:5px;
+}
+	
+.logo {
+	background: url(../images/logo.png) no-repeat;
+	width:150px;
+	height:100px;
+	float:left;
+	margin-left:120px;
+	margin-top:30px;
+	
+	
+}
+
+.menu
+{
+	width:78px;
+	height:32px;
+	display:inline-block;
+	background: url(../images/menu1.png) no-repeat;
+	margin-right:-4px;
+
+}
+.link-menu {
+	
+	width:700px;
+	height:32px;
+	display:inline-block;
+	margin-left:120px;	
+		
+}	
+
+.home{background-position:-3px top;}
+.services{background-position:-82px top;}
+.programs{background-position:-164px top;}
+.project{background-position:-244px top;}
+.color{background-position:-323px top;}
+.potscaping{background-position:-404px top;}
+.blooming{background-position:-483px top;}
+.contact{background-position:-563px top;}
+
+.home:hover{background-position:-3px -33px;}
+.services:hover{background-position:-82px -33px;}
+.programs:hover{background-position:-164px -33px;}
+.project:hover{background-position:-244px -33px;}
+.color:hover{background-position:-323px -33px;}
+.potscaping:hover{background-position:-404px -33px;}
+.blooming:hover{background-position:-483px -33px;}
+.contact:hover{background-position:-563px -33px;}
+
+.home-in {background-position:-3px -65px;}
+.services-in{background-position:-82px -65px;}
+.programs-in{background-position:-164px -65px;}
+.project-in{background-position:-244px -65px;}
+.color-in{background-position:-323px -65px;}
+.potscaping-in{background-position:-404px -65px;}
+.blooming-in{background-position:-483px -65px;}
+.contact-in{background-position:-563px -65px;}
+
+
+.presentation {
+	background: #999966 no-repeat;
+	width:710px;
+	height:450px;
+	position: absolute;
+	margin-top:5px;	
+	margin-left:80px;	
+	-moz-border-radius: 10px;
+	-webkit-border-radius:10px;		
+}
+.picture-right {
+	background: url(../images/patrice.jpg) no-repeat;
+	width:220px;
+	height:220px;
+	float:right;
+	margin-right: 20px;
+	margin-top: 31px;
+
+	}
+
+h1
+{
+	font-family:"Segoe UI";
+	font-size:30px;
+	color:#666633;
+	margin-bottom:-5px;
+	margin-top:-5px;
+	margin-left:20px;
+	
+}
+.sepa{
+	background-image:url(../images/sepa-mini.png);
+	width:664px;
+	height:1px;
+	margin-bottom:20px;
+	margin-left:20px
+	
+}
+h2{
+	font-family:"Segoe UI";
+	font-size:14px;
+	color:#993333;
+	display:inline;
+	line-height:8px;
+	
+}
+.texte-left
+{
+	font-family:"Segoe UI";
+	font-size:13px;
+	width:400px;
+	float:left;
+	position:relative;
+	text-align:right;
+	
+	
+}
+.texte-left p{
+	font-family:"Segoe UI";
+	font-size:13px;
+	line-height:3px;
+	position:relative;
+	margin-right:10px;
+}
+
+.texte-left p a{
+	color:#666633;
+}
+.texte-left a{
+	color:#666633;
+}
+
+.text-bottom{
+	font-family:"Segoe UI";
+	font-size:13px;
+	line-height:3px;
+	position:absolute;
+	top:17em;
+	left:37em;
+	text-align:left;
+	width:400px;
+}
+.text-bottom a{
+	color:#666633;
+}
+
+
+.footer{
+font-family:"segoe UI";
+font-size:11px;
+color:#000000;
+text-align:center;
+margin-bottom:36px;
+}
+

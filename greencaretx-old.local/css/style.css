@@ -1,0 +1,263 @@
+@import url('reset.css');
+body{
+	color:#000;
+	font-family: 'inaimathiregular';
+	font-size:12px;
+	overflow:scroll;
+	background-image: url(../images/background/background_logo-gray2.png);
+	
+}
+#rounded_rectangle
+{
+	border-radius: 10px;
+	width: 30px;
+	height: 50px;
+	position:absolute;
+	top: 0px;
+	left: 0px;
+	border: 2px solid red;
+	behavior: url(js/PIE-1.0.0/PIE.htc);
+
+}
+
+.inline_contact
+{
+	font-size: 25px; 
+	line-height: 30px;
+	text-align: left; 
+	color: #330000; 
+	height: 535px; 
+	width: 455px; 
+	background-image: url(../images/background/off-white.png); 
+	float: left;
+	display: none;
+}
+
+div#preload { display: none; }
+
+.lower_div
+{
+	width:1000px;
+	height: 50px;
+	position:absolute;
+	margin-top: 227px;
+	left: 50%;
+	margin-left:-500px;
+	top: 50%;
+	z-index: 1200;
+	color: #cccccc;
+	font-size: 23px;
+	line-height: 23px;
+}
+
+.lower_div_2
+{
+	width:1000px;
+	height: 100px;
+	position:absolute;
+	margin-top: 275px;
+	border: 1px solid red;
+	left: 50%;
+	margin-left:-500px;
+	top: 50%;
+	z-index: 9999;
+}
+
+
+.frame_content
+{
+	width: 780px;
+	height: 438px;
+	position:absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -275px;
+	margin-left: -300px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right:10px;
+	z-index: 1101;	
+	opacity: 1;
+	background-image: url(../images/background/off-white.png);
+	font-size:20px; 
+	padding: 10px; 
+	color: black; 
+	
+}
+
+
+.frame_background
+{
+	width: 800px;
+	height: 458px;
+	position:absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -275px;
+	margin-left: -300px;
+	z-index: 1100;
+	opacity: 1;
+	background-image: url(../images/background/off-white.png);
+	
+	
+}
+.logo
+{
+	position:absolute;
+	top: 50%;
+	z-index:999;
+	left: 50%;
+	margin-top: -320px;
+	margin-left: -530px;
+	width: 200px;
+	height: 191px;
+}
+a{
+	color:#f0f0f0;
+	text-decoration:none;
+}
+.clr{
+	clear:both;
+}
+.container {
+	width:100%;
+	margin:0 auto;
+	position:absolute;
+	top: 50%;
+	margin-top: -300px;
+}
+
+.container_cover {
+	width:1000px;
+	position:absolute;
+	height: 550px;
+	top: 50%;
+	z-index: 998;
+	margin-top: -290px;
+	margin-left: -500px;
+	left: 50%;
+}
+
+.container_cover_index {
+	width:1000px;
+	position:absolute;
+	height: 550px;
+	top: 50%;
+	z-index: 1300;
+	margin-top: -290px;
+	margin-left: -500px;
+	left: 50%;
+}
+
+.more ul{
+	text-transform:uppercase;
+	font-size:13px;
+	font-weight:bold;
+	padding:20px 0px 30px 20px;
+	height:30px;
+}
+.more ul li{
+	float:left;
+	margin:0px 1px;
+}
+.more ul li.selected a,
+.more ul li.selected a:hover{
+	background:#000;
+	color:#fff;
+	text-shadow:none;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px 5px 5px 5px;
+}
+.more ul li a{
+	text-shadow:1px 1px 1px #000;
+	color:#e3cbfe;
+	padding:3px 6px;
+}
+.more ul li a:hover{
+	color:#bda2dc;
+}
+
+}
+.content{
+	width:100%;
+	position:relative;
+	clear:both;
+	z-index: 3000;
+}
+/* Footer Style */
+.topbar{
+	position:relative;
+	width:100%;
+	height:25px;
+	line-height:24px;
+	bottom:0;
+	font-size:13px;
+	background:#000;
+	opacity:0.7;
+	text-transform:uppercase;
+	font-family: 'PT Sans Narrow', Arial, sans-serif;
+	z-index:4;
+}
+.topbar a{
+	padding:5px 10px;
+	letter-spacing:1px;
+	text-shadow:1px 1px 1px #000;
+	color:#ddd;
+	text-align:right;
+}
+.topbar a:hover{
+	color:#fff;
+}
+.topbar a span{
+	font-weight:bold;
+}
+.topbar span.right_ab{
+	position:absolute;
+	right:4px;
+}
+
+.contact_tab
+{
+	position:absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: 200px;
+	margin-top: -333px;
+}
+
+@font-face {
+	font-family: 'Conv_InaiMathi';
+	src: url('../fonts/InaiMathi.eot');
+	src: local('☺'), url('../fonts/InaiMathi.woff') format('woff'), url('../fonts/InaiMathi.ttf') format('truetype'), url('../fonts/InaiMathi.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.projects-text
+{
+	position: relative;
+	height: 230px;
+	width: 300px;
+	color: #330000;
+	top: 35px;;
+	left: 225px;
+	text-decoration: underline;
+	font-size: 25px;
+}
+
+.our_plants-text
+{
+	position: relative;
+	top: 0px;
+	color: #330000;
+	font-size: 20px;
+	width: 300px;
+}
+
+.green_text
+{
+	color: #99cc33; 
+	font-weight: bold;
+	text-shadow: 1px 1px #666666;
+}

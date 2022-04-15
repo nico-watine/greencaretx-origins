@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>greencare ipad</title>
+</head>
+
+<body>
+greencare ipad site
+
+
+
+<!-- BEGIN SCRIPTS -->
+<script>
+var screenSize=document.documentElement.clientWidth;
+if(screenSize<1025) 
+{
+  window.location="#.html"
+}
+</script>
+<script>
+var screenSize=document.documentElement.clientWidth;
+if(screenSize<569)
+{
+  window.location="iphone.html"
+}
+</script>
+<script src="js/util.js"></script>
+<script src="js/jRespond.js"></script>
+<script>
+		
+		// call jRespond and add breakpoints
+		var jRes = jRespond([
+			{
+				label: 'tablet',
+				enter: 767,
+				exit: 1224
+			},{
+				label: 'desktop',
+				enter: 1025,
+				exit: 10000
+			}
+		]);
+		
+		// usage
+		var outputStr = document.getElementById('output');
+		var screenSize=document.documentElement.clientWidth;
+
+		jRes.addFunc({
+			breakpoint: 'desktop',
+			enter: function() {
+				console.log('>>> run this for the DESKTOP breakpoint <<<');
+				window.location="index.php";
+			},
+			exit: function() {
+				console.log('<<< destroy this when exiting the DESKTOP breakpoint >>>');
+			}
+		});
+		
+		jRes.addFunc({
+			breakpoint: ['tablet'],
+			enter: function() {
+				console.log('>>> run this for the LAPTOP/TABLET breakpoint <<<');
+			},
+			exit: function() {
+				console.log('<<< destroy this when exiting the LAPTOP/TABLET breakpoint >>>');
+			}
+		});
+		
+		jRes.addFunc({
+			breakpoint: 'tablet',
+			enter: function() {
+				window.location="#.html";
+			}
+		});
+		
+		jRes.addFunc({
+			breakpoint: 'handheld',
+			enter: function() {
+				console.log('>>> run this for the HANDHELD breakpoint <<<');
+				window.location="iphone.html";
+			},
+			exit: function() {
+				console.log('<<< destroy this when exiting the HANDHELD breakpoint >>>');
+			}
+		});
+		
+		jRes.addFunc({
+			breakpoint: '*',
+			enter: function() {
+				console.log('>>> run this when entering EVERY breakpoint <<<');
+			},
+			exit: function() {
+				console.log('<<< run this when exiting EVERY breakpoint >>>');
+			}
+		});
+	</script>
+</body>
+</html>

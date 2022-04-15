@@ -1,0 +1,100 @@
+<webmail_options>
+  <addresses_name_display_order>firstname</addresses_name_display_order>
+  <addresses_order>ascending</addresses_order>
+  <addresses_per_page>10</addresses_per_page>
+  <addresses_sortby>firstname</addresses_sortby>
+  <attachment_view>all</attachment_view>
+  <display_encoding>UTF-8</display_encoding>
+  <fcc/>
+  <fetch_images_local>no</fetch_images_local>
+  <fetch_images_remote>no</fetch_images_remote>
+  <forward_attach/>
+  <from_name>Patrice Watine</from_name>
+  <html_compose>yes</html_compose>
+  <inbox_checkmail>0</inbox_checkmail>
+  <messages_order>ascending</messages_order>
+  <messages_order2>descending</messages_order2>
+  <messages_per_page>10</messages_per_page>
+  <messages_sortby>from_name</messages_sortby>
+  <messages_sortby2>from</messages_sortby2>
+  <multipart_view>html</multipart_view>
+  <outbound_encoding>UTF-8</outbound_encoding>
+  <preferred_from/>
+  <reply_to/>
+  <reply_to_toggle>no</reply_to_toggle>
+  <sel_addressee_order>firstname</sel_addressee_order>
+  <sel_addressee_sortby>descending</sel_addressee_sortby>
+  <signature>&lt;!DOCTYPE HTML&gt;&#13;
+&lt;html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"&gt;&#13;
+&lt;head&gt;&#13;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8"&gt;&#13;
+&#13;
+&lt;/head&gt;&#13;
+&#13;
+&lt;body style="font-family:Arial, Helvetica, sans-serif;"&gt;&#13;
+&lt;script src="http://connect.facebook.net/en_US/all.js#xfbml=1"&gt;&lt;/script&gt;&#13;
+&#13;
+&lt;!-- NAME --&gt;&#13;
+&lt;br&gt;&#13;
+--------------------------&#13;
+&lt;br&gt;&#13;
+&lt;span style="font-size: 17px;"&gt;&#13;
+Patrice Watine&#13;
+&lt;/span&gt;&#13;
+&lt;br&gt;&#13;
+&lt;span style="font-size: 15px;"&gt;&#13;
+President&#13;
+&#13;
+&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&#13;
+&lt;!-- LOGO --&gt;&#13;
+&lt;img src="https://s3.amazonaws.com/iframe.fanbuildr.com/page-135141346526476/logo 130x109.jpg"&gt;&#13;
+&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&#13;
+&lt;!-- ADDRESS --&gt;&#13;
+5221 Center St&lt;br&gt;&#13;
+Houston, TX 77007&#13;
+&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&#13;
+&lt;!-- PHONE NUMBERS --&gt;&#13;
+&lt;span style="font-style: italic"&gt;Main:&lt;/span&gt; &amp;nbsp;713.864.5300&lt;br&gt;&#13;
+&lt;span style="font-style: italic"&gt;Cell:&lt;/span&gt; &amp;nbsp&amp;nbsp&amp;nbsp;832.651.3136&lt;br&gt;&#13;
+&lt;span style="font-style: italic"&gt;Fax:&lt;/span&gt; &amp;nbsp&amp;nbsp&amp;nbsp;713.863.1147&lt;br&gt;&#13;
+&lt;br&gt;&#13;
+&#13;
+&lt;!-- WEBSITE LINKS w/ FACEBOOK ICONS--&gt;&#13;
+&lt;span style="font-style: italic"&gt;&#13;
+Visit Our Websites:&#13;
+&lt;/span&gt;&#13;
+&lt;br&gt;&#13;
+&lt;a href="http://www.greencaretx.com/"&gt;&#13;
+www.greencaretx.com&lt;/a&gt; &amp;nbsp;&#13;
+&lt;a href="http://www.facebook.com/greencareinteriorplants/"&gt;&#13;
+&lt;img src="https://s3.amazonaws.com/iframe.fanbuildr.com/page-135141346526476/fb icon small.png"&gt;&lt;/a&gt;&#13;
+&lt;br&gt;&#13;
+&lt;a href="http://www.houstoninteriorplants.com/"&gt;&#13;
+www.houstoninteriorplants.com&lt;/a&gt; &amp;nbsp;&#13;
+&lt;a href="http://www.facebook.com/houstoninteriorplants/"&gt;&#13;
+&lt;img src="https://s3.amazonaws.com/iframe.fanbuildr.com/page-135141346526476/fb icon small.png"&gt;&lt;/a&gt;&#13;
+&lt;br&gt;&#13;
+&lt;/span&gt;&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&lt;/html&gt;&#13;
+&#13;
+&#13;
+</signature>
+  <signature_toggle>yes</signature_toggle>
+  <tz_display>my</tz_display>
+  <url_highlight>no</url_highlight>
+  <use_mailboxlist>no</use_mailboxlist>
+</webmail_options>

@@ -1,0 +1,46 @@
+html, body{
+	background:#999966;
+	color:#ffffff;
+	font: Verdana, Helvetica, Arial, sans-serif 12px;
+	margin:0 auto 0 auto;
+	padding:0;
+}
+#swfcentro {
+	position: absolute; /*Posicionamiento absoluto*/
+	top: 50%; /*Desde arriba, colocar al 50% de la pantalla*/
+	left: 50%; /*Desde la izquierda, colocar al 50% de la pantalla*/
+	margin-top: -300px; /*Restamos la mitad de alto del SWF para centrarlo verticalmente*/
+	margin-left: -450px; /*Restamos la mitad de ancho del SWF para centrarlo horizontalmente*/
+}
+/*SECCION CABECERA*/
+#cabecera{
+	width:900px;
+	text-align:center;
+	margin:0 auto 0 auto;
+}
+/*FIN SECCION CABECERA*/
+/*SECCION CUERPO*/
+#cuerpo{
+	background-color:#666633;
+	font-family: Arial, Helvetica, Verdana, sans-serif;
+	width:900px;
+	text-align:center;
+	margin:0 auto 0 auto;
+}
+#cuerpo p{
+	font-size:0.9em;
+	text-align:justify;
+	margin: 0 20px 0 20px;
+}
+/*FIN SECCION CUERPO*/
+/*SECCION PIE DE PAGINA*/
+#contenido{	font-family: Arial, Helvetica, Verdana, sans-serif;}
+#pie{
+	width:900px;
+	text-align:center;
+	margin:0 auto 0 auto;
+}
+#pie p{
+	font-size:0.8em;
+}
+/*FIN SECCION PIE DE PAGINA*/

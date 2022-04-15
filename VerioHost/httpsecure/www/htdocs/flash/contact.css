@@ -1,0 +1,167 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	font-size: 100%;
+	background: #999966 url(none) repeat;
+}
+
+@font-face {  
+  font-family: SegoeUI ;  
+  src: url(/fonts/segoeui.ttf)("truetype");  
+}  
+
+body{
+	font-family:"SegoeUI", verdana, helvetica, sans-serif; 
+	margin:auto;
+	width:880px;
+}
+
+.picture-left {
+	background: url(imagenes/home.jpg)no-repeat;
+	width:280px;
+	height:380px;
+	float:left;
+	margin-left: 2px;
+	margin-top: 25px;
+	
+	}
+.content {
+	width:920px;
+	height:640px;
+	background: #666633 ;
+	position:absolute; 
+	top:50%;
+	margin-top:-320px;	
+}
+
+.bar {
+	background: url(/imagenes/menu/contact1.png) no-repeat;
+	width:310px;
+	height:40px;
+	float:right;
+	margin-right:120px;
+	font-size:16px
+	
+	}
+.bar p{
+	margin-top:10px;
+	margin-left:7px;
+	float:left;
+	font-size:15px;
+	color: #989765;
+}
+.bar p a{
+	color: #989765;
+
+}
+	
+.logo {
+	background: url(imagenes/logo.png) no-repeat;
+	width:150px;
+	height:100px;
+	float:left;
+	margin-left:140px;
+	margin-top:30px;
+}
+
+.menu
+{
+	width:78px;
+	height:32px;
+	display:inline-block;
+	background: url(../images/menu1.png) no-repeat;
+	margin-right:-4px;
+
+}
+.link-menu {
+	
+	width:700px;
+	height:32px;
+	display:inline-block;
+	margin-left:140px;	
+	margin-top: -10px;	
+}	
+
+.presentation {
+	background: #999966 no-repeat;
+	width:730px;
+	height:450px;
+	position: absolute;
+	margin-top: 5px;	
+	margin-left:95px;	
+	
+}
+.picture-right {
+	background: url(imagenes/contact%20page/patrice.jpg) no-repeat;
+	width:220px;
+	height:220px;
+	float:right;
+	margin-right: 20px;
+	margin-top: 31px;
+
+	}
+
+h1
+{
+	font-size:30px;
+	color:#666633;
+	margin-bottom:-5px;
+	margin-top:-5px;
+	margin-left:20px;
+	
+}
+.sepa{
+	background-image: url(imagenes/contact%20page/sepa-mini.png);
+	width:664px;
+	height:1px;
+	margin-bottom:20px;
+	margin-left:20px
+	
+}
+h2{
+	font-size:14px;
+	color:#7e250e;
+	display:inline;
+	line-height:8px;
+	
+}
+.texte-left
+{
+	font-size:13px;
+	width:400px;
+	float:left;
+	position:relative;
+	text-align:right;
+	
+	
+}
+.texte-left p{
+	font-size:13px;
+	line-height:3px;
+	position:relative;
+	color: #2b241a;
+}
+
+.texte-left p a{
+	color:#434815;
+}
+.texte-left a{
+	color:#434815;
+}
+
+.text-bottom{
+	font-size:13px;
+	line-height:3px;
+	position:absolute;
+	top:17em;
+	left:37em;
+	text-align:left;
+	width:400px;
+}
+.text-bottom a{
+	color:#434815;
+}
+
+
+
+

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>4.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <Captions>false</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>Projects Slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>false</ImageAspectRatio>
+            <ImageEffect>basic_linear</ImageEffect>
+            <ImageFillColor>#666666</ImageFillColor>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>/Applications/WOWSlider.app/Contents/Resources/templates/backgnd/push/</ImageTemplate>
+            <ImageTemplateName>Push</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>/Users/nico/Documents/GreencareTX/GreencareTX/Projects Slider/projects_index.html</PublishFileName>
+            <PublishIndex>projects_index.html</PublishIndex>
+            <PublishPath>/Users/nico/Documents/GreencareTX/GreencareTX/Projects Slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>33</SlideshowDelay>
+            <SlideshowDuration>12</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <TemplateName>push</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>64</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>1</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects4.jpg</url>
+                <title>projects4</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects.jpg</url>
+                <title>projects</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects6.jpg</url>
+                <title>projects6</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects2.jpg</url>
+                <title>projects2</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects3.jpg</url>
+                <title>projects3</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects5.jpg</url>
+                <title>projects5</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects7.jpg</url>
+                <title>projects7</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects8.jpg</url>
+                <title>projects8</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects9.jpg</url>
+                <title>projects9</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects10.jpg</url>
+                <title>projects10</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects11.jpg</url>
+                <title>projects11</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects12.jpg</url>
+                <title>projects12</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects13.jpg</url>
+                <title>projects13</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects14.jpg</url>
+                <title>projects14</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects15.jpg</url>
+                <title>projects15</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects16.jpg</url>
+                <title>projects16</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects17.jpg</url>
+                <title>projects17</title>
+            </Image>
+            <Image>
+                <url>/Users/nico/Desktop/Projects Pics 2/projects19.jpg</url>
+                <title>projects19</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

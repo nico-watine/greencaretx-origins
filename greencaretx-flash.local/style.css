@@ -1,0 +1,252 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	font-size: 100%;
+	background: #999966 url(none) repeat;
+}
+
+@media screen {
+	div#preloader {
+		position: absolute;
+		left: -9999px;
+		top:  -9999px;
+		}
+	div#preloader img {
+		display: block;
+		}
+	}
+@media print {
+	div#preloader, 
+	div#preloader img {
+		visibility: hidden;
+		display: none;
+		}
+	}
+
+
+@font-face {  
+  font-family: SegoeUI ;  
+  src: url(/fonts/segoeui.ttf)("truetype");  
+}  
+ 
+
+
+body{
+	font-family:"SegoeUI", verdana, helvetica, sans-serif; 
+	margin:auto;
+	width:880px;
+}
+
+.content {
+	width:920px;
+	height:640px;
+	background: #666633 ;
+	position:absolute; 
+	top:50%;
+	margin-top:-320px;
+	
+}
+.bar {
+	background: url(/imagenes/menu/contact1.png) no-repeat;
+	width:310px;
+	height:40px;
+	float:right;
+	margin-right:120px;
+	font-size:16px
+	
+	}
+.bar p{
+	margin-top:10px;
+	margin-left:7px;
+	float:left;
+	font-size:15px;
+	color: #989765;
+}
+.bar p a{
+	color: #989765;
+
+}
+	
+.logo {
+	background: url(imagenes/logo.png) no-repeat;
+	width:150px;
+	height:100px;
+	float:left;
+	margin-left:140px;
+	margin-top:30px;
+}
+
+.menu
+{
+	width:78px;
+	height:32px;
+	display:inline-block;
+	background: url(../images/menu1.png) no-repeat;
+	margin-right:-4px;
+
+}
+.link-menu {
+	
+	width:700px;
+	height:32px;
+	display:inline-block;
+	margin-left:140px;	
+	margin-top: -10px;	
+}	
+
+
+
+
+.presentation {
+	background: #999966 no-repeat;
+	width:730px;
+	height:450px;
+	position: absolute;
+	margin-top: 5px;	
+	margin-left:95px;	
+	
+}
+
+.presentation_gallery {
+	background: #999966 no-repeat;
+	width:730px;
+	height:450px;
+	position: relative;
+	margin-top: 5px;	
+	margin-left:95px;	
+	
+}
+.picture-left {
+	background: url(imagenes/home.gif) no-repeat;
+	width:280px;
+	height:380px;
+	float:left;
+	margin-left: 2px;
+	margin-top: 25px;
+	
+	}
+
+.titre1 h1
+{
+	float:left;
+	margin-left:20px;
+	margin-top:10px;
+	margin-bottom:-5px;
+	font-size:30px;
+	color:#666633;
+}
+.sepa{
+	background-image: url(imagenes/sepa-mini.png);
+	width:400px;
+	height:1px;
+	margin-bottom:12px;
+	margin-left:20px;
+	float:left;
+}
+.sepa_programs{
+	background-image: url(imagenes/sepa-mini.png);
+	width:413px;
+	height:1px;
+	margin-bottom:12px;
+	margin-left:20px;
+	float:left;
+}
+.sepa_indoor_projects{
+	background-image: url(imagenes/sepa-mini.png);
+	width:680px;
+	height:1px;
+	margin: 0 auto;
+	position: relative;
+	top: -8px;
+}
+.text-top-indoor_projects{
+	position: absolute;
+	text-align: left;
+	top: 40px;
+	left: 25px;
+	width: 680px;
+	margin: 0 auto;
+	font-size: 13px;
+	line-height: 15px;
+	color: #241f09;
+}
+.text-top-color_rotation{
+	position: absolute;
+	text-align: left;
+	top: 52px;
+	left: 25px;
+	width: 680px;
+	margin: 0 auto;
+	font-size: 17px;
+	line-height: 19px;
+	color: #241f09;
+}
+.text-top-potscaping{
+	position: absolute;
+	text-align: left;
+	top: 40px;
+	left: 25px;
+	width: 680px;
+	margin: 0 auto;
+	font-size: 16px;
+	line-height: 19px;
+	color: #241f09;
+}
+
+
+.texte-right-home
+{
+	font-size:15px;
+	width:420px;
+	float:left;
+	position:relative;
+	line-height:10px;
+	
+}
+.texte-right-home p{
+	font-size:15px;
+	line-height:15px;
+	margin-left:20px;
+	color: #241f09;
+	
+}
+.texte-right
+{
+	font-size:12px;
+	width:420px;
+	float:left;
+	position:relative;
+	line-height:10px;
+	
+}
+.texte-right p{
+	font-size:13px;
+	line-height:13px;
+	margin-left:30px;
+	color: #241f09;
+	
+}
+.texte-right h2{
+	font-size:14px;
+	color:#7e250e;
+	display:inline;
+	line-height:8px;
+	margin-left:20px;
+	
+	
+}
+
+.adress {
+	position:absolute;
+	top:29em;
+	right:4em;
+}
+.adress h2 {
+	color:#666633;
+	font:12px "Segoe UI";
+	letter-spacing: 3px;
+	line-height:4px; 
+}
+
+
+

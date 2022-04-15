@@ -1,0 +1,8 @@
+PS1="`hostname -s`$ "
+
+alias h='fc -l'
+alias ll='ls -l'
+
+umask 022
+
+stty echoe erase ^H kill ^U intr ^C quit ^\| susp ^Z

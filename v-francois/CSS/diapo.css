@@ -1,0 +1,238 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	font-size: 100%;
+	background: #999966 url(none) repeat;
+}
+
+body{
+	font: 0.85em Verdana, Geneva, sans-serif;
+	margin:auto;
+	width:900px;
+}
+
+.content {
+	width:880px;
+	height:630px;
+	background: #666633 ;
+	margin-top:5px;
+	
+}
+
+.bar {
+	background: url(../images/contact1.png) no-repeat;
+	width:320px;
+	height:40px;
+	float:right;
+	margin-right:100px;
+	font-size:16px
+	
+	}
+.bar p{
+	margin-top:10px;
+	margin-left:5px;
+	float:left;
+	font-size:15px;
+	color: #989765;
+}
+.bar p a{
+	color: #989765;
+	float:right;
+	margin-top:-18px;
+	margin-left:5px;
+}
+	
+.logo {
+	background: url(../images/logo.png) no-repeat;
+	width:150px;
+	height:100px;
+	float:left;
+	margin-left:120px;
+	margin-top:30px;
+}
+
+.menu
+{
+	width:78px;
+	height:32px;
+	display:inline-block;
+	background: url(../images/menu1.png) no-repeat;
+	margin-right:-4px;
+
+}
+.link-menu {
+	
+	width:700px;
+	display:inline-block;
+	height:32px;
+	margin-left:120px;	
+		
+}	
+
+.home{background-position:-3px top;}
+.services{background-position:-82px top;}
+.programs{background-position:-164px top;}
+.project{background-position:-244px top;}
+.color{background-position:-323px top;}
+.potscaping{background-position:-404px top;}
+.blooming{background-position:-483px top;}
+.contact{background-position:-563px top;}
+
+.home:hover{background-position:-3px -33px;}
+.services:hover{background-position:-82px -33px;}
+.programs:hover{background-position:-164px -33px;}
+.project:hover{background-position:-244px -33px;}
+.color:hover{background-position:-323px -33px;}
+.potscaping:hover{background-position:-404px -33px;}
+.blooming:hover{background-position:-483px -33px;}
+.contact:hover{background-position:-563px -33px;}
+
+.home-in {background-position:-3px -65px;}
+.services-in{background-position:-82px -65px;}
+.programs-in{background-position:-164px -65px;}
+.project-in{background-position:-244px -65px;}
+.color-in{background-position:-323px -65px;}
+.potscaping-in{background-position:-404px -65px;}
+.blooming-in{background-position:-483px -65px;}
+.contact-in{background-position:-563px -65px;}
+
+
+.presentation {
+	background: #999966 no-repeat;
+	width:710px;
+	height:450px;
+	position: absolute;
+	margin-top:5px;	
+	margin-left:80px;	
+	-moz-border-radius: 10px;
+	-webkit-border-radius:10px;		
+}
+
+h1
+{
+	font-family:"Segoe UI";
+	font-size:30px;
+	color:#666633;
+	margin-bottom:-5px;
+	margin-left:25px;
+	margin-top:-1px;
+	
+	
+}
+.sepa{
+	background-image:url(../images/sepa-mini.png);
+	width:650px;
+	height:1px;
+	margin-bottom:10px;
+	margin-left:20px;
+}
+
+.texte{
+	font-size: 12px;	
+	margin-left:25px;
+	margin-right:25px;
+}
+.pot1{
+	float:left;
+	margin-left:12px;
+	margin-top:200px;	
+	}
+.pot2{
+	float:right;
+	margin-right:12px;
+	margin-top:200px;	
+		
+	}
+
+
+.jcarousel-skin-tango .jcarousel-container-horizontal
+{
+	width:317px;
+	margin-top:120px;
+	margin-left:200px;
+}
+
+.jcarousel-skin-tango .jcarousel-item
+{
+	width:317px;
+	height:212px;
+}
+
+.jcarousel-control
+{
+	position:absolute;
+	margin-left:5px
+	text-align:center;
+	z-index:1;
+	
+}
+
+.jcarousel-control a
+{
+	font-size:0px;
+}
+
+.image-carousel1
+{
+	background-image:url(../images/indoor/1.jpg);
+	width:317px;
+	height:212px;
+}
+.image-carousel2
+{
+	background-image:url(../images/indoor/2.jpg);
+	width:317px;
+	height:212px;
+}
+.image-carousel3
+{
+	background-image:url(../images/indoor/3.jpg);
+	width:317px;
+	height:212px;
+}
+.image-carousel4
+{
+	background-image:url(../images/indoor/4.jpg);
+	width:317px;
+	height:212px;
+}
+.image-carousel5
+{
+	background-image:url(../images/indoor/5.jpg);
+	width:283px;
+	height:212px;
+}
+.image-carousel6
+{
+	background-image:url(../images/indoor/6.png);
+	width:204px;
+	height:212px;
+}
+
+.number
+{
+	width:100px;
+	height:80px;
+	display:inline-block;
+	margin-left:14px;
+	background: url(../images/indoor/indoor1.png) no-repeat;
+				
+}
+
+.un{background-position: -2px -1px;}
+.deux {background-position: -120px -1px;}
+.trois {background-position: -236px -1px;}
+.quatre {background-position: -352px -1px;}
+.cinq {background-position: -468px -1px;}
+.six {background-position: -576px -1px;}
+
+
+
+
+.footer{
+font-family:"segoe UI";
+font-size:11px;
+color:#000000;
+text-align:center;
+margin-bottom:36px;
+}
